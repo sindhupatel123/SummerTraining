@@ -13,5 +13,5 @@ public class NewArthmeticException {
             System.out.println(e.getMessage());
         }
     }
-    
+     
 }
