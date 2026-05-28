@@ -5,6 +5,7 @@ public class HashSetMethods {
         HashSet<Integer> set = new HashSet<>();
         set.add(1);
         set.add(4);
+        
         set.add(5);
         set.add(66);
         set.add(4);

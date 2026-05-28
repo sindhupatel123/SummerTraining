@@ -9,6 +9,7 @@ public class ArrayException {
             System.out.println("Array Index Out Of Bound Exception");
         }
     }
+}
 
 
     
